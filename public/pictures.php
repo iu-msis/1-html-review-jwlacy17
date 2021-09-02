@@ -1,14 +1,13 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <title>Jack Lacy Home Page</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="css/stylesheet.css">
-    <title>About Me</title>
   </head>
   <body>
 
@@ -29,21 +28,31 @@
       </div>
     </nav>
 <!-- Template from bootstrap -->
+<div class="p-5 text-center">
+  <h1 class="mb-3">Picture Page</h1>
+  <h3 class="mb-3"> Look at the pictures I have captured from the internet below </h3>
+</div>
 
-  <h1 align="center"> About Random User </h1>
 
-  <div class="card">
-    <img src="img/photo.jfif" alt="User" >
-    <h1>John Doe</h1>
-    <p class="title">CEO & Founder, Fake Company </p>
-    <p>Harvard University</p>
-    <p> Country: USA </p>
-    <p> Birthday: 04/15/1998 </p>
-    <p> Age: 23 </p>
-    <a href="mailto:email@example.com, secondemail@example.com">Send Email</a>
-  </div>
-  <!-- Template from W3 schools -->
 
+<figure>
+<a target="_blank" href="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg">
+  <img src="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg" alt="Forest">
+  <figcaption> Source: Pixabay </figcaption>
+</a>
+</figure>
+<figure>
+<a target="_blank" href="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg">
+  <img src="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg" alt="Forest">
+  <figcaption> Source: Pixabay </figcaption>
+</a>
+</figure>
+<figure>
+<a target="_blank" href="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg">
+  <img src="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg" alt="Forest">
+  <figcaption> Source: Pixabay </figcaption>
+</a>
+</figure>
 
   </body>
 </html>

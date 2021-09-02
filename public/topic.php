@@ -20,14 +20,15 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-item nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link" href="pictures.php">Pictures</a>
           <a class="nav-item nav-link" href="about.php">About Me</a>
-          <a class="nav-item nav-link" href="topic.php">Topic</a>
+          <a class="nav-item nav-link" href="topic.php">Books</a>
         </div>
       </div>
     </nav>
 <!-- Template from bootstrap -->
 
-  <div class="p-5 text-center">
+  <div class="p-5 text-center bg-light">
     <h1 class="mb-3">Books</h1>
 
   <table class="table">
@@ -148,6 +149,7 @@
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
   </form>
+</div>
 
   </body>
 </html>

@@ -1,13 +1,14 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Jack Lacy Home Page</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="css/stylesheet.css">
+    <title>About Me</title>
   </head>
   <body>
 
@@ -26,17 +27,9 @@
       </div>
     </nav>
 <!-- Template from bootstrap -->
-<div class="p-5 text-center">
-  <h1 class="mb-3">Home Page</h1>
-  <h3 class="mb-3"> Look at the pictures I have captured from the internet below </h3>
-</div>
 
-<figure>
-<a target="_blank" href="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg">
-  <img src="https://cdn.pixabay.com/index/2021/08/24/12-14-41-390_1440x550.jpg" alt="Forest">
-  <figcaption> Source: Pixabay </figcaption>
-</a>
-</figure>
+  <h1 align="center"> About Jack Lacy </h1>
+
 
 
   </body>
